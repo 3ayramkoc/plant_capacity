@@ -10,3 +10,5 @@
 - *Loan Repayment: Loan repayment schedules are integrated for the plant investment, simulating the impact of debt financing on cash flow.*
 
 **By calculating these variables based on the chosen annual production capacity, the project ultimately determines the total NPV. This analysis helps to identify the most profitable plant capacity for the mining operation.**
+
+![flow chart](https://github.com/user-attachments/assets/1ba49d11-ebde-4861-baef-c8258eeb2a6a)
