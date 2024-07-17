@@ -10,3 +10,11 @@
 **Calculating these variables based on the chosen annual production capacity, the project ultimately determines the total NPV. This analysis helps to identify the most profitable plant capacity for the mining operation. To achieve this, we did analyze the NPV for production capacities ranging from 0.5 Mt to 2 Mt tons in increments of 100,000 tons, with 1,000 iterations performed for each capacity value. This will provide a comprehensive understanding of the NPV profile across different plant sizes.**
 
 ![plant_c](https://github.com/user-attachments/assets/0c704812-0081-4d2e-b452-7a30105ff6b5)
+
+**The ore grade and tonnage values for the mine site are provided in the table. As an initial step, the Python code block below will be used to mathematically model the objective function. This will calculate the NPV value for the "initial_annual_production_ton" variable, which will be set to 0.5 Mt and 2 Mt respectively. In the second phase, the quantity of product to be extracted for each ore grade range is calculated based on the recovery rate. Then, using the prevailing ore sales price for each year over a 20-year period, net revenue and net present value are determined for each grade range.**
+
+![newplot](https://github.com/user-attachments/assets/59051890-3ec0-426a-a5f9-325f28767ef1)
+
+In the third phase, we analyzed the NPV for production capacities ranging from 0.5 Mt to 2 Mt in increments of 100,000 tons, with 1,000 iterations performed for each capacity value. This analysis provides a comprehensive understanding of the NPV profile across different plant sizes.
+
+![npv](https://github.com/user-attachments/assets/f5b65716-1fb3-4cb0-99e8-eeba06526086)
